@@ -39,13 +39,13 @@ Portas de entrada públicas: Permitir portas selecionadas<br>
      Obs.: "Por padrão, o acesso à máquina virtual é restrito a fontes na mesma rede virtual e tráfego das soluções de balanceamento <br>
      de carga do Azure. Selecione Nenhum para confirmar ou escolha permitir o tráfego da internet pública a uma dessas portas comuns."<br>
 
-Clique em Revisar e criar (botão azul).<br>
+<p>Clique em Revisar e criar (botão azul).<br>
 Aguarde ter a validação aprovada.<br>
 Clique em criar (botão azul)<br>
 Começará o carregamento para iniciar a implantação.<br>
 A implantação ficará em andamento.<br>
 Ao fima, a implantaç~çao é concluída!<br>
-
+</p>
 
 
 
