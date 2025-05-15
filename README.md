@@ -4,12 +4,12 @@ Criação de máquina virtual
 O passo inicial é criar uma conta, normalmente, mas depois, precisa ter algum tipo de assinatura. <br>
 No meu caso, como curso ADS, consegui o acesso para ter a assinatura de estudante. <br>
 Caso não tenha, qualquer pessoa poderá utilizar o acesso gratuito (por tempo limitado); apenas para teste.
-
-Iniciando a criação da máquina virtual:
-Logo na página inicial do portal do Azure, tem vários ícones e um deles, é o de Máquinas 
-Virtuais. É o segundo ícone, logo ao lado de "Criar um recurso".
-Ao acessar o ícone "Máquinas Virtuais", passa para a próxima página e clica no "+" que é o "criar".
-Clicar em "Máquina virtual do Azure".
+<p></p>
+Iniciando a criação da máquina virtual:<br>
+Logo na página inicial do portal do Azure, tem vários ícones e um deles, é o de Máquinas <br>
+Virtuais. É o segundo ícone, logo ao lado de "Criar um recurso". <br>
+Ao acessar o ícone "Máquinas Virtuais", passa para a próxima página e clica no "+" que é o "criar". <br>
+Clicar em "Máquina virtual do Azure".<br>
 
 Detalhes do projeto:
 Assinatura: Azure for Students (essa é a minha assinatura, mas existem outras);
