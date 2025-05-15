@@ -1,17 +1,16 @@
 # mvdio
 Criação de máquina virtual
-<p></p>
+
 O passo inicial é criar uma conta, normalmente, mas depois, precisa ter algum tipo de assinatura. <br>
 No meu caso, como curso ADS, consegui o acesso para ter a assinatura de estudante. <br>
 Caso não tenha, qualquer pessoa poderá utilizar o acesso gratuito (por tempo limitado); apenas para teste.
 
-<p></p>
 Iniciando a criação da máquina virtual:<br>
 Logo na página inicial do portal do Azure, tem vários ícones e um deles, é o de Máquinas <br>
 Virtuais. É o segundo ícone, logo ao lado de "Criar um recurso". <br>
 Ao acessar o ícone "Máquinas Virtuais", passa para a próxima página e clica no "+" que é o "criar". <br>
 Clicar em "Máquina virtual do Azure".<br>
-<p></p>
+
 Detalhes do projeto:<br>
 Assinatura: Azure for Students (essa é a minha assinatura, mas existem outras);<br>
 Grupo de recursos: NetworkWatcherRG (caso não tenha recurso criado, podemos criar na hora mesmo).<br>
@@ -29,7 +28,7 @@ Imagem: Windows server 2019 Datacerner - x64 Gen2 <br>
      Obs.: é o sistema operacional base para a máquina virtual<br>
 Executar com desconto de Spot do Azure: marcada (como é apenas um teste, ao marcar essaopção, o custo fica ínfimo, pois mesmo que <br>
 não irei ser cobrada, não quero arriscar rs)<br>
-<p></p>
+
 Conta de administrador:<br>
 Nome de usuário: xxx<br>
 Senha: xxx<br>
