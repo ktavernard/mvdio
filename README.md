@@ -1,7 +1,8 @@
 # mvdio
 Criação de máquina virtual
-O passo inicial é criar uma conta, normalmente, mas depois, precisa ter algum tipo de assinatura.
-No meu caso, como curso ADS, consegui o acesso para ter a assinatura de estudante.
+<p></p>
+O passo inicial é criar uma conta, normalmente, mas depois, precisa ter algum tipo de assinatura. <br>
+No meu caso, como curso ADS, consegui o acesso para ter a assinatura de estudante. <br>
 Caso não tenha, qualquer pessoa poderá utilizar o acesso gratuito (por tempo limitado); apenas para teste.
 
 Iniciando a criação da máquina virtual:
